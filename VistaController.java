@@ -57,4 +57,8 @@ public class VistaController implements Initializable {
         mediaPlayer.play();
     }
 
+    public static void main(String[] args) {
+        System.out.println("Carloooos, chivato BOOOM!!");
+    }
+
 }
