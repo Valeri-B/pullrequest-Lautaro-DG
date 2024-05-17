@@ -61,4 +61,20 @@ public class VistaController implements Initializable {
         System.out.println("Carloooos, chivato BOOOM!!");
     }
 
+    public static void main(String[] args) {
+        System.out.println("Carloooos, chivato BOOOM!!");
+    }
+    public static void main(String[] args) {
+        System.out.println("Carloooos, chivato BOOOM!!");
+    }
+    public static void main(String[] args) {
+        System.out.println("Carloooos, chivato BOOOM!!");
+    }
+    public static void main(String[] args) {
+        System.out.println("Carloooos, chivato BOOOM!!");
+    }
+    public static void main(String[] args) {
+        System.out.println("Carloooos, chivato BOOOM!!");
+    }
+    
 }
